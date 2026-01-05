@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servis Kami on Runner Document</title>
+    <link>//localhost:1313/services/</link>
+    <description>Recent content in Servis Kami on Runner Document</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Runner Hantar Document)</managingEditor>
+    <webMaster>youremail@example.com (Runner Hantar Document)</webMaster>
+    <copyright>© 2026 Runner Hantar Document</copyright>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
