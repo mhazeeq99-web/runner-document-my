@@ -18,7 +18,7 @@ title = "Runner Document"
 [params.author]
    name = "Runner Hantar Document"
    email = "youremail@example.com"
-   image = "/img/logo2.jpeg"
+   image = "static/img/logo2.jpeg"
    imageQuality = 96
    headline = "Runner kami menghantar document ke seluruh Semenanjung Malaysia. Hantar sahaja PDF / Word pada kami dan kami akan uruskan.  Tekan link Whatsapp di bawah "
    bio = "A little bit about you"
