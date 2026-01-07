@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://mhazeeq99-web.github.io/runner-document-my/sitemap.xml
